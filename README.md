@@ -1,2 +1,4 @@
 # NegativeCommentsClassification
-Classification of comments into: toxic, highly toxic, indecent, threatening, insulting and hateful identity-related by supervised learning classification methods.
+Classification of comments into:  toxic, severe toxic, obscene, threat, insult, identity hate by supervised learning classification methods. In this project BERT
+ classifier and RNN and LSTM networks were used. 
+ 
